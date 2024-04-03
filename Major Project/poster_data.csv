@@ -1,0 +1,201 @@
+name,path,Identified,Match,Accuracy
+AD ASTRA,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Ad Astra.jpg,B G I K L M O P S U Y c k r,S,12.5
+ARROW,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Arrow.jpg,B C I K L P S Z c j k r,,0.0
+ATLANTA,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Atlanta.jpg,A B G I K L M O P X Y c k m r t,A L,28.57142857142857
+A BEAUTIFUL MIND,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/A Beautiful Mind.jpg,A B I K L M P S Y c k r,A B I L M,31.25
+A CHRISTMAS CAROL,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/A Christmas Carol.jpg,A B C H K L P S X Z k r,A C H L S,29.411764705882355
+A MAN CALLED OTTO,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/A Man Called Otto.jpg,A B C G H I J K L O P S X Z b c e j k m r,A C L O,23.52941176470588
+A SERIES OF UNFORTUNATE EVENTS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/A Series of Unfortunate Events.jpg,A B K L M N P S X Y Z c e k l r,A N S,10.0
+ACE VENTURA PET DETECTIVE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Ace Ventura Pet Detective.jpg,A B C I K L M N O P Q R S W X Y Z c k n r,A C I N P R,24.0
+AIR,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Air.jpg,A B C F I J K L M N O P Q S U V W X Z b c d e f g i j k m p q r t u,A I,66.66666666666666
+Aladdin,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Aladdin.jpg,A B G H I J K L P S Y Z k n r,A n,28.57142857142857
+ALIEN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Alien.jpg,A B I K O S U V W X a f k,A I,40.0
+ALIENS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Aliens.jpg,A B F H I K L P S Y Z c k m r,A I L S,66.66666666666666
+AMADEUS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Amadeus.jpg,A B G I J K L P Q S Y Z c k n r t,A S,28.57142857142857
+Amelie,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/amelie.jpg,B K L N P Q R S U W k m r,m,16.666666666666664
+AMERICAN BEAUTY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/American Beauty.jpg,B K L P X Y e k r,B Y,13.333333333333334
+AMERICAN HISTORY X,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/American History X.jpg,A B C H I K L M N O P R S U V W X Y Z b c d e g h i k m r s t,A C H I M N O R S X Y,61.11111111111112
+ANT MAN WASP QUANTUMANIA,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Ant Man and the Wasp Quantumania.jpg,A B G I J K L O P S U Y b k n p r,A I P S U,20.833333333333336
+Apocalypse Now,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Apocalypse Now.jpg,B k,,0.0
+AVATAR THE WAY OF WATER,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Avatar The Way of Water.jpg,A B C H I J K L O P S Y Z k m n r,A H O Y,17.391304347826086
+AVENGERS ENDGAME,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Avengers Endgame.jpg,A B G I J K L M P S Y Z c k r t u,A G M S,25.0
+AVENGERS INFINITY WAR,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Avengers Infinity War.jpg,A B G I K L M O P S U X Y Z c k r,A G I S Y,23.809523809523807
+BABYLON,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Babylon.jpg,A B C I K L M N P S Y k n r,A B L N Y,71.42857142857143
+BACK TO THE FUTURE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Back to the Future.jpg,A B I K L P S k l p,A B K,16.666666666666664
+BATMAN BEGINS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Batman Begins.jpg,A B I J K L P Q S Y Z c k n r t,A B I S,30.76923076923077
+BEFORE SUNRISE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Before Sunrise.jpg,A B G H K L P Z k r,B,7.142857142857142
+BLACK ADAM,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Black Adam.jpg,A B G I K L O P S Y Z b k m r t,A B K L,40.0
+BLADE RUNNER,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Blade Runner.jpg,A B K L N O P W Z k m r u,A B L N,33.33333333333333
+BRAVE HEART,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Braveheart.jpg,B D G I K L P Q S X Y Z c k r t,B,9.090909090909092
+BULLET TRAIN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Bullet Train.jpg,A B C D E G I K L M O P S W Y c d e k n r t,A B E I L,41.66666666666667
+CAPERNAUM,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Capernaum.jpg,A B G I K L O P S X k m n r,A P,22.22222222222222
+Cars,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Cars.jpg,A B C D H I K L P S Y Z c k l n p r,C r,50.0
+Casablanca,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/casablanca.jpg,A B D F H I K L M O P R S W X Z b c d e g k l r,b c l,30.0
+CASINO,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Casino .jpg,A B C I K L N O P Q S U Y k r,A C I N O S,100.0
+catch me if you can,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Catch Me If You Can.jpg,A B C G I J K L M N P S U V W Y Z c e k m n r s t,c e m n t,26.31578947368421
+Charlie AND THE CHOCOLATE FACTORY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Charlie and the Chocolate Factory.jpg,A B H I K L M O P S U Y Z k m n r,A H L O Y r,18.181818181818183
+CINDERELLA ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Cinderella.jpg,B I K L M P S Y Z c k n r,I L,18.181818181818183
+CINEMA PARADISO,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Cinema Paradiso.jpg,B I K L P Q S Y c k r,I P S,20.0
+CITIZEN KANE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Citizen Kane.jpg,A B C F H K L M N O P R S T V X Z c e f g k n q r t,A C K N T Z,50.0
+City Lights,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/City Lights.jpg,A B J K L P S Y Z c e k,L,9.090909090909092
+CITY OF GOD,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/City of God.jpg,A B C I J K L P S k,C I,18.181818181818183
+COCO,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Coco.jpg,A B G I J K L N P S Y b e k r,,0.0
+DANGAL,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Dangal.jpg,B D J K L P Q S U Z k n u,D L,33.33333333333333
+THE DARK KNIGHT RISES,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/dark knight rises.jpg,A B I K L M N P Q Y Z k n r,A I K N,19.047619047619047
+DIE HARD,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/die hard.jpg,A B C D H I J K L M O P S Y Z c g k n r t,A D H I,50.0
+DJANGO UNCHAINED,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Django Unchained.jpg,A B G H I K L M O P S V Y e k r t,A G H I O,31.25
+DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Doctor Strange in the Multiverse of Madness.jpg,A B I J K L M O P S Z k r,A I L M O S,13.953488372093023
+DOWNFALL,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Downfall.jpg,A B K L M P S k r,A L,25.0
+DUNE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Dune.jpg,A B I K L P c k m t,,0.0
+DUNGEONS & DRAGONS HONOR AMONG THIEVES,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Dungeons & Dragons Honor Among Thieves.jpg,B G I K L P R S Y Z k n r,G I R S,10.526315789473683
+ENCANTO,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Encanto.jpg,A B C D I J K L M P S Y Z b c k n r t,A C,28.57142857142857
+ETERNALS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Eternals.jpg,A B D I K L P Y c k r,A L,25.0
+EVIL DEAD RISE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Evil Dead Rise.jpg,A B I K L M P S Z k r,A I L S,28.57142857142857
+FALL,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Fall.jpg,A B G K M P S W Y c,A,25.0
+Fargo,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Fargo.jpg,B P,,0.0
+FAST X,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Fast X.jpg,A B C D F G H J K L O P R S Y Z b c e k m n r t,A F S,50.0
+FIGHT CLUB,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/fight club.jpg,B C I J K L M P S Y b c k r,B C I L,40.0
+FINDING NEMO,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Finding Nemo.jpg,B G H I K L M P S Y Z k l m n r t,G I M,25.0
+FORD v FERRARI,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Ford v Ferrari.jpg,B K L O P S Y c k n r t,O,7.142857142857142
+FOREST GUMP,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Forrest Gump.jpg,A B G H K M N O R W X Z c d e r u,G M O R,36.36363636363637
+FREE GUY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Free Guy.jpg,A B D G I J K L P S k p r,G,12.5
+GAME OF THRONES,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Game of Thrones.jpg,A B I J K L M O P S c k l r t,A M O S,26.666666666666668
+GHOSTBUSTERS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Ghostbusters.jpg,B K L P S k r,B S,16.666666666666664
+ghosted,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Ghosted.jpg,A B H I K L P Z c k l r t,t,14.285714285714285
+GLADIATORS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/gladiator.jpg,A B C K L P X a k l r,A L,20.0
+GODS OF EGYPT,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Gods of Egypt.jpg,A B C I K L P S Y j k p r,P S Y,23.07692307692308
+GOOD WILL HUNTING,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Good Will Hunting.jpg,A B C H I J K L P S Y c k n r,H I L,17.647058823529413
+GoodFellas,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Goodfellas.jpg,A B D I K L N O P b c k r,,0.0
+GREEN BOOK,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Green Book.jpg,B F G J L c k,B G,20.0
+GUARDIANS OF THE GALAXY VOLUME 3,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Guardians of the Galaxy Volume 3.jpg,A B F G I K L M O P V W X b g i k n r,A F G I L M O V X,28.125
+HAMILTON,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/hamilton.jpg,A B I K L O P S U X Z k l m p r t u,A I L O,50.0
+Harry Potter AND THE DEATHY HALLOWS PART 2,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Harry Potter and the Deathly Hallows Part 2.jpg,A B C D G H I J K L P S c k n r u,A D H L P S r,16.666666666666664
+Harry Potter AND THE SORCERERS STONE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Harry Potter and the Sorcerers Stone.jpg,B F G I J K L M O P Q S Y k l n r,O P S r,11.11111111111111
+HOW TO TRAIN YOUR DRAGON,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/How to Train Your Dragon.jpg,A B C D G I J K L M O P S V Y Z c k n r t,A D G I O Y,25.0
+INCEPTION,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/inception.jpg,A B I J K L O P S Z b k r,I O P,33.33333333333333
+INDIANA JONES and the LAST CRUSADE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Indiana Jones and the Last Crusade.jpg,A B C H I J K L M P S W Y d k m r t,A C I J L S d t,23.52941176470588
+INSIDE OUT,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Inside Out.jpg,B D G I K L P Q k s,D I,20.0
+INTERSTELLAR,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/interstellar.jpg,B G I K L N O P S V X Z c k r,I L N S,33.33333333333333
+IT’S A WONDERFUL LIFE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Its a Wonderful Life.jpg,A B I K L N O P R S T W X c e g i k n r,A I L N O R S T W,42.857142857142854
+JAI BHIM,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Jai Bhim.jpg,A B C I K L M N P S Z k m n r t,A B I M,50.0
+JAWS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Jaws.jpg,K O p r,,0.0
+JOHN WICK CHAPTER 4,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/John Wick Chapter 4.jpg,B I K L P S Y k,I K P,15.789473684210526
+JOHN WICK,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/John Wick.jpg,B I K L O P Y Z c k n r,I K O,33.33333333333333
+JOKER,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/joker.jpg,B D G I K L P Q S X k n,K,20.0
+JUMANJI,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Jumanji.jpg,B K L N P Q R a g k n r,N,14.285714285714285
+JURASSIC PARK,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Jurassic Park.jpg,I K L r,I K,15.384615384615385
+Klaus,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Klaus.jpg,A B F H K L M O P S U V W X Y Z d k n p r t,K,20.0
+KNOCK AT THE CABIN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Knock at the Cabin.jpg,B K L M P S Y k n r,B K,11.11111111111111
+KONG SKULL ISLAND,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Kong Skull Island.jpg,A B C G I K L M P S Y Z c k n r t,A G I K L S,35.294117647058826
+L A Confidential ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/L A Confidential.jpg,A B I K L O P S Y k r,A L,11.76470588235294
+LIFE IS BEAUTIFUL,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Life Is Beautiful.jpg,A B C E G I J K L M O P S X Y Z c k r,A B E I L S,35.294117647058826
+LOGAN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Logan.jpg,A B H I J K L M P S V Y Z c k r t,A L,40.0
+LOVE AGAIN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Love Again.jpg,A B C G I J K L O P S Y c k r,A G I L O,50.0
+MAD MAX FURY ROAD,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Mad Max Fury Road.jpg,A B I K L P S Z c k r,A,5.88235294117647
+THE MATRIX,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/matrix.jpg,A B D I K L M P Q S X Y Z c k l n r,A I M X,40.0
+MEMENTO,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Memento.jpg,A B F G I K L M O P Q R S V W X Y Z b c d k r,M O,28.57142857142857
+MISSION IMPOSSIBLE DEAD RECKONING,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Mission Impossible Dead Reckoning Part One.jpg,A B C D F G H I J K L M N P Q S T V Y Z c e f h i j k m n r t u,A B C D G I K L M N P S,36.36363636363637
+MOANA,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Moana.jpg,A B I K L S Y c k,A,20.0
+MODERN TIMES ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Modern Times.jpg,A B G H I J K L M O P W k m,I M O,23.076923076923077
+MONSTERS INC,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Monsters Inc.jpg,A B G I K L M O P S U X b c e k m n q r t u,I M O S,33.33333333333333
+MR POPPERS PENGUiNS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Mr Poppers Penguins.jpg,A B G I J K L M O P S X Y Z b c k n r,G M O P S,26.31578947368421
+Mrs CHATTERJEE VS NORWAY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Mrs Chatterjee vs Norway.jpg,,,
+MuLAN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Mulan.jpg,,,
+No Hard Feelings,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/No Hard Feelings.jpg,,,
+OLDBOY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Oldboy.jpg,,,
+ONCE UPON A TIME IN THE WEST,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Once Upon a Time in the West.jpg,,,
+ONE FLEW OVER THE CUCKOOS NEST,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/One Flew Over the Cuckoos Nest.jpg,,,
+OPPENHEIMER,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Oppenheimer.jpg,,,
+PANS LABYRINTH,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Pan's Labyrinth.jpg,,,
+PARASITE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/parasite.jpg,,,
+PATHS OF GLORY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Paths of Glory.jpg,,,
+PETERPAN & WENDY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Peter Pan & Wendy.jpg,,,
+PIRATES of the CARIBBEAN DEAD MEN TELL NO TALES,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Pirates of the Caribbean Dead Men Tell No Tales.jpg,,,
+PIRATES of the CARIBBEAN THE CURSE OF THE BLACK PEARL,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Pirates of the Caribbean On Stranger Tides.jpg,,,
+PITCH PERFECT,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Pitch Perfect.jpg,,,
+PSYCHO,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/psycho.jpg,,,
+PULP FICTION,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/pulp fiction.jpg,,,
+RAIDERS of the LOST ARK,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Raiders of the Lost Ark.jpg,,,
+RATATOUILLE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Ratatouille.jpg,,,
+REAR WINDOW,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Rear Window.jpg,,,
+Rebecca,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Rebecca.jpg,,,
+ROCKY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Rocky.jpg,,,
+RUSH,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Rush.jpg,,,
+saving private ryan,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Saving Private Ryan.jpg,,,
+SCHINDLERS LIST,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/schindler's list .jpg,,,
+seven,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/seven.jpg,,,
+THE SHAWSHANK REDEMPTION,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/shawshank.jpg,,,
+SHAZAM FURY OF THE GODS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Shazam Fury of the Gods.jpg,,,
+SHREK,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Shrek.jpg,,,
+SHUTTER ISLAND,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Shutter Island.jpg,,,
+SONIC THE HEDGEHOG,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Sonic the Hedgehog.jpg,,,
+SPIDER MAN INTO THE SPIDER VERSE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Spider Man Into the Spider Verse.jpg,,,
+SPIDER MAN NO WAY HOME ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Spider Man No Way Home.jpg,,,
+SPIRITED AWAY ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Spirited Away.jpg,,,
+Sponge Bob SQUAREPANTS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/SpongeBob SquarePants.jpg,,,
+STAR WARS A NEW HOPE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Star Wars Episode IV A New Hope.jpg,,,
+THE EMPIRE STRIKES BACK,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Star Wars Episode V The Empire Strikes Back.jpg,,,
+SINSET BOULEVARD,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Sunset Boulevard.jpg,,,
+TERMINATOR 2 JUDGEMENT DAY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Terminator 2 Judgment Day.jpg,,,
+THE CHRONICLES OF NARNIA THE LION THE WITCH AND THE WARDROBE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Chronicles of Narnia The Lion the Witch and the Wardrobe.jpg,,,
+THE DARK KNIGHT,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the dark knight.jpg,,,
+THE DEPARTED ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the departed.jpg,,,
+THE EXORCIST,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Exorcist.jpg,,,
+THE FAST AND THE FURIOUS ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Fast and the Furious.jpg,,,
+THE FATHER,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Father.jpg,,,
+THE FLASH ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Flash.jpg,,,
+The GodFather PART II,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the godfather 2.jpg,,,
+The GodFather ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the godfather.jpg,,,
+THE GOLD RUSH,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the gold rush.jpg,,,
+THE GOOD THE BAD AND THE UGLY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Good the Bad and the Ugly.jpg,,,
+THE Great DICATATOR,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Great Dictator.jpg,,,
+THE GREAT ESCAPE ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Great Escape.jpg,,,
+THE GREEN MILE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the green mile.jpg,,,
+THE HANDMAIDEN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Handmaiden.jpg,,,
+THE HUNT,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Hunt.jpg,,,
+THE INCREDIBLES,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Incredibles.jpg,,,
+The Intouchables,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Intouchables.jpg,,,
+THE IRON GIANT,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Iron Giant.jpg,,,
+THE KERALA STORY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Kerala Story.png,,,
+THE KID,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the kid.jpg,,,
+THE LION KING,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the lion king.jpg,,,
+THE LITTLE MERMAID,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Little Mermaid.jpg,,,
+THE LIVES OF OTHERS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Lives of Others.jpg,,,
+THE LORAX,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Lorax.jpg,,,
+THE LORD OF THE RINGS THE FELLOWSHIP OF THE RING,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the lord of the rings the fellowship of the ring.jpg,,,
+THE LORD OF THE RINGS THE RETURN OF THE KING,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the lord of the rings the return of the king.jpg,,,
+THE LORD OF THE RINGS THE TWO TOWERS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the lord of the rings the two towers.jpg,,,
+STAR WARS THE MANDALORIAN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Mandalorian.jpg,,,
+THE MASK ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Mask.jpg,,,
+THE MUMMY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Mummy.jpg,,,
+THE PIANIST,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Pianist.jpg,,,
+THE PRESTIGE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the prestige.jpg,,,
+THE PROFESSIONAL,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the professional.jpg,,,
+THE SECRET IN THEIR EYES,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Secret in Their Eyes.jpg,,,
+THE SHiNiNG,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Shining.jpg,,,
+the silence of the lambs ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Silence of the Lambs.jpg,,,
+THE SIXTH SENSE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Sixth Sense.jpg,,,
+THE SUICIDE SQUAD,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Suicide Squad.jpg,,,
+THE TERMINATOR,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Terminator.jpg,,,
+the TRUMAN show,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Truman Show.jpg,,,
+the Usual Suspects,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/the usual suspect.jpg,,,
+THE WOLF OF THE WALL STREET,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/The Wolf of Wall Street.jpg,,,
+THERE WILL BE BLOOD ,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/There Will Be Blood.jpg,,,
+THOR LOVE AND THUNDER,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Thor Love and Thunder.jpg,,,
+TO KILL A MOCKINGBIRD,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/To Kill a Mockingbird.jpg,,,
+TOMORROWLAND,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Tomorrowland.jpg,,,
+TOP GUN MAVERICK,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Top Gun Maverick.jpg,,,
+TOY STORY,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Toy Story.jpg,,,
+TRANSFORMERS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Transformers.jpg,,,
+twilight,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Twilight.jpg,,,
+UNFORGIVEN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Unforgiven.jpg,,,
+UP,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Up.jpg,,,
+VALERIAN AND THE CITY OF A THOUSAND PLANETS,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Valerian and the City of a Thousand Planets.jpg,,,
+VERTIGO,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Vertigo.jpg,,,
+WALL E,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/wall e.jpg,,,
+WARRIOR,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Warrior.jpg,,,
+WHIPLASH,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/whiplash.jpg,,,
+WITNESS FOR THE PROSECUTION,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Witness for the Prosecution.jpg,,,
+WONDER WOMAN,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Wonder Woman.jpg,,,
+your name,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Your Name.jpg,,,
+ZACK SNYDERS JUSTICE LEAGUE,F:/CMREC/Project/3rd Year/Semester 2/Mini Project/EMNIST/Posters/Zack Snyders Justice League.jpg,,,
